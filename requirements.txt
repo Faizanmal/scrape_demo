@@ -1,0 +1,5 @@
+# Core system uses Python standard library only
+
+# Optional API layer
+fastapi>=0.115.6
+uvicorn>=0.34.3

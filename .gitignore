@@ -1,0 +1,115 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+.env
+.venv
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule files
+celerybeat-schedule
+
+# dotenv
+.env
+.env.*
+
+# virtualenv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# profiling
+.prof
+
+# Local files
+*.log
+*.sqlite3
+*.db
+*.dat
+*.tmp
+*.bak
+*.swp
+*.swo
+*.orig
+*.rej
+*.patch
+*.un~
+*.sublime-workspace
+*.sublime-project
+*.idea/
+*.vscode/
+*.code-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.old
+*.orig
+*.rej
+*.patch
+*.un~
+*.sublime-workspace
+*.sublime-project
+*.idea/
+*.vscode/
+*.code-workspace
+
+# Ignore batch results
+batch_results.json
+
+# linting and formatting
+.ruff_cache/
